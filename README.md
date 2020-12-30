@@ -2,19 +2,6 @@ Basically here 2 questions are solved..
 
 First program is to print a * pattern   
 
-If input is 5
-
-The output should be 
-
-*
-* *
-* * *
-* * * *
-* * * * *
-* * * *
-* * *
-* *
-*
 
 I have used two for loops to iterate.
 
