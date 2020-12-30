@@ -1,4 +1,4 @@
-Basically here 2 questions are solved..
+ Here 2 questions are solved..
 
 First program is to print a * pattern   
 
