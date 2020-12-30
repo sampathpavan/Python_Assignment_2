@@ -25,5 +25,5 @@ And in the second part I have printed from input-1 till 0.
 
 Second program is to get a input from a user and we need to reverse the word
 
-I have used indexing and slicing to get the result  i.e(s[::-1]
+I have used indexing and slicing to get the result  i.e(s[::-1])
 
